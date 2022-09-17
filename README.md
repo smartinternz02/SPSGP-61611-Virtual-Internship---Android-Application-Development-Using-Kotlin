@@ -2,18 +2,24 @@
 
 ## Name: ANKIT KUMAR KHANDA
 
-## **Project Name -** 
+## **Major Projects -** 
 1.Nearby Places App
+
 2.Grocery App-Fresh basket
 
-## **Minor Name -** 
+## **Minor Projects-** 
 1.Affirmation app
 
 2.Amphibians app
+
 2.Birthday app
+
 3.Bus schedule app
+
 4.Cupcake app
+
 5.Dessert clicker app
+
 etc
 
 
