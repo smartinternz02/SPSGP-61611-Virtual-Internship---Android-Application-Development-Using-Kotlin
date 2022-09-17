@@ -3,18 +3,19 @@
 ## Name: ANKIT KUMAR KHANDA
 
 ## **Project Name -** 
-Freshbasket using kotlin
-### **Description -** 
-- As we can't remember everything, users frequently forget to buy the things they want to buy. However, with the assistance of this app, you can make a list of the groceries you intend to buy so that you don't forget anything.
-- This app is a simple grocery list app that allows you to add, edit, and delete items from your list. 
+1.Nearby Places App
+2.Grocery App-Fresh basket
 
-### **Features -**
-- Add items to the list
-- Edit items in the list
-- Delete items from the list
-- Save the list to the database
-- Retrieve the list from the database
-- Display the list in a recycler view
+## **Project Name -** 
+1.Affirmation app
+2.Amphibians app
+2.Birthday app
+3.Bus schedule app
+4.Cupcake app
+5.Dessert clicker app
+etc
+
+
 
 ### **Screenshots of Grocery App-**
 ![HELP](https://github.com/smartinternz02/SPSGP-76766-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/Grocery_App/OUTPUT/Demo/Help.png)
