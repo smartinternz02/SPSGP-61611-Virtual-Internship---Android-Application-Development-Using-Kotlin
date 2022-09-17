@@ -6,8 +6,9 @@
 1.Nearby Places App
 2.Grocery App-Fresh basket
 
-## **Project Name -** 
+## **Minor Name -** 
 1.Affirmation app
+
 2.Amphibians app
 2.Birthday app
 3.Bus schedule app
