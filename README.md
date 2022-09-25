@@ -30,7 +30,7 @@ etc
 
 # SPSGP-61611-Virtual-Internship---Android-Application-Development-Using-Kotlin
 Virtual Internship - Android Application Development Using Kotlin
-project video with video proof :  https://youtu.be/Wg-EAMS8jFI
+project video with video proof :  https://youtu.be/QEGA7SXB0qI
 
 
 ## Name: ANKIT KUMAR KHANDA
